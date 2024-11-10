@@ -1,0 +1,3 @@
+# State Vector Simulation of Quantum Circuits
+
+This simulator was created as part of my application to the QOSF Mentorship Program. I chose to perform this screening task as I have used classical simulators of quantum circuits before, and I wanted to understand better how the classical simulators work, as well as use this opportunity to find a better way to describe quantum computing to those who are unfamiliar with the topic.
